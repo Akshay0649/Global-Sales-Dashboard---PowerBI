@@ -5,6 +5,9 @@
 * Once done with the culculations, i have made visualizations and create report using cards, charts, slicer etc.
 * Which help to easy understanding of the end-user and give meaningful insights.
 
+# Here you can access the Dashboard
+https://app.powerbi.com/groups/me/reports/286fa119-a3c1-454c-8501-0efa97af2c1d?pbi_source=desktop
+
 
 ## Tools and Technology used-
 #### 1. Microsoft Power BI
